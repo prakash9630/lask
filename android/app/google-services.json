@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "619919254420",
+    "project_id": "webrtc-96f55",
+    "storage_bucket": "webrtc-96f55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619919254420:android:5739b2fb9de3e5bbd7a581",
+        "android_client_info": {
+          "package_name": "com.asparksys.laskclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619919254420-u2m4b4v75guk5qt521rnlcf9j9llb5k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWPj7038NJ22amQw8maaXVuzm4bMD3PdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619919254420-u2m4b4v75guk5qt521rnlcf9j9llb5k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619919254420:android:0a0b85f3459ea0bed7a581",
+        "android_client_info": {
+          "package_name": "com.asparksys.lasklawyer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619919254420-u2m4b4v75guk5qt521rnlcf9j9llb5k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWPj7038NJ22amQw8maaXVuzm4bMD3PdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619919254420-u2m4b4v75guk5qt521rnlcf9j9llb5k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
